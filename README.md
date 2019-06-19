@@ -1,5 +1,4 @@
-# ESP8266-LED-strip-driver
- in development ..
+# ESP8266-LED-strip-driver 
   features :
    Modes :
    * solid color mode 
